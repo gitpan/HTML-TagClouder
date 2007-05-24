@@ -1,4 +1,4 @@
-# $Id: /local/perl/HTML-TagClouder/trunk/lib/HTML/TagClouder/Collection/Simple.pm 11406 2007-05-23T10:17:09.023599Z daisuke  $
+# $Id: /local/perl/HTML-TagClouder/trunk/lib/HTML/TagClouder/Collection/Simple.pm 11407 2007-05-23T11:58:17.952570Z daisuke  $
 #
 # Copyright (c) 2007 Daisuke Maki <daisuke@endeworks.jp>
 
@@ -75,7 +75,7 @@ __END__
 
 =head1 NAME
 
-HTML::TagCLouder::Collection::Simple - A Simple Tag Collection
+HTML::TagClouder::Collection::Simple - A Simple Tag Collection
 
 =head1 METHODS
 

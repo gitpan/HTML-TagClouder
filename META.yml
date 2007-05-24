@@ -1,5 +1,5 @@
 --- 
-abstract: Yet Another TagCloud Generator
+abstract: Configurable Tag Cloud Generator
 author: Copyright (c) 2007 Daisuke Maki <daisuke@endeworks.jp>
 distribution_type: module
 generated_by: Module::Install version 0.67
@@ -23,4 +23,4 @@ requires:
   UNIVERSAL::isa: 0
   UNIVERSAL::require: 0
   overload: 0
-version: 0.01
+version: 0.02

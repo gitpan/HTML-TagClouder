@@ -1,4 +1,4 @@
-# $Id: /local/perl/HTML-TagClouder/trunk/lib/HTML/TagClouder/Processor/Simple.pm 11406 2007-05-23T10:17:09.023599Z daisuke  $
+# $Id: /local/perl/HTML-TagClouder/trunk/lib/HTML/TagClouder/Processor/Simple.pm 11418 2007-05-24T00:52:24.708742Z daisuke  $
 #
 # Copyright (c) 2007 Daisuke Maki <daisuke@endeworks.jp>
 
@@ -62,6 +62,8 @@ __END__
 HTML::TagClouder::Processor::Simple - A Simple Tag Processor
 
 =head1 METHODS
+
+=head2 new
 
 =head2 process
 
